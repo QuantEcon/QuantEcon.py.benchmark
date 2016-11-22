@@ -6,14 +6,20 @@ Contains benchmarks for the QuantEcon.py repository using the asv project
 
 To run the timing tests
 
-```python
+```bash
 asv run
 ```
 
 To generate the html
 
-```python
+```bash
 asv publish
+```
+
+To preview the html through a python http server
+
+```bash
+asv preview
 ```
 
 ## Resources
