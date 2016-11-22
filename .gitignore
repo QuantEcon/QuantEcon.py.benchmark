@@ -1,3 +1,4 @@
+*.pyc
 QuantEcon.py/
 env/
 html/
